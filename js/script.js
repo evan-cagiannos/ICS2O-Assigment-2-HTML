@@ -8,11 +8,11 @@
  */
 function calculate () {
   // input
-  const diagonala = parseInt(document.getElementById('diagonala').value)
-  const diagonalb = parseInt(document.getElementById('diagonalb').value)
+  const diagonalp = parseInt(document.getElementById('diagonalp').value)
+  const diagonalq = parseInt(document.getElementById('diagonalq').value)
 
   // process
-  const area = (diagonala * diagonalb) / 2
+  const area = (diagonalp * diagonalq) / 2
 
   // output
   document.getElementById('area').innerHTML = 'Area is: ' + area + ' cm²'
