@@ -1,5 +1,5 @@
-// Created by: Aiden McLeod
-// Created on: Mar 2022
+// Created by: Evan Cagiannos
+// Created on: 04-01-2022
 // This file contains the JS functions for index.html
 
 'use strict'
